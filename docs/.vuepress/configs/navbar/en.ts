@@ -19,10 +19,10 @@ export const en: NavbarConfig = [
     },
     {
         text: 'Shop',
-        link: 'https://www.zimabaord.com',
+        link: 'https://shop.zimaboard.com',
     },
     {
         text: 'Back To HomePage',
-        link: 'https://www.zimabaord.com',
+        link: 'https://www.zimaboard.com',
     },
 ]
