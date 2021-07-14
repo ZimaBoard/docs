@@ -25,10 +25,10 @@ export default defineUserConfig<DefaultThemeOptions>({
              */
             '/': {
                 // navbar
-                navbar: navbar.en,
+                navbar: navbar.en_US,
 
                 // sidebar
-                sidebar: sidebar.en,
+                sidebar: sidebar.en_US,
 
                 // page meta
                 editLinkText: 'Edit this page on GitHub',
