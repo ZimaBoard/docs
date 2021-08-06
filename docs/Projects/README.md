@@ -1,10 +1,10 @@
 ---
-title: Tutorials
+title: Projects
 
 editLink: true
 
 ---
 
-# Tutorials
+# Projects
 
 Under Construction...

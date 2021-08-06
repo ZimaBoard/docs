@@ -6,12 +6,12 @@ export const en_US: NavbarConfig = [
         link: '/GetStarted/',
     },
     {
-        text: 'Tutorials',
-        link: '/Tutorials/',
+        text: 'Projects',
+        link: '/Projects/',
     },
     {
-        text: 'Datasheets',
-        link: '/Datasheets/',
+        text: 'Knowledge Base',
+        link: '/KnowledgeBase/',
     },
     {
         text: 'Community',

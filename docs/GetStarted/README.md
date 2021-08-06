@@ -1,29 +1,26 @@
 ---
-title: Get Started with ZimaBoard
+title: Introduction
 
 editLink: true
 
 ---
 
-# Get Started with ZimaBoard
+# Introduction
 
 ![ZimaBoard](/images/ZimaBoard/g4.jpeg)
 
 Let's set up your **ZimaBoard** and see what you can do with it!
 
+## 🧐 What will you learn
 
-## What can you make with ZimaBoard?
+- Connect and boot up the ZimaBoard
+- Create an intranet shared disk via Samba
 
-ZimaBoard is a **Single Board Server**, which means you can use it ...
+## 🧰 What will you need
 
-## Quick Start
+> 图
 
-Quick start in 5 minutes
-
-
-
-## Start with ...
-
-- Home Server
-- Firewall / Router
-- Edge Intelligence
+- 1 x ZimaBoard 216/432/832
+- 1 x Power Adapter
+- 1 x SATA 2.5' Hard Disk
+- 1 x Ethernet cable
