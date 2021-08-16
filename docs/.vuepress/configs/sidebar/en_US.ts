@@ -8,7 +8,6 @@ export const en_US: SidebarConfig = {
                 '/GetStarted/README.md',
                 '/GetStarted/01.md',
                 '/GetStarted/02.md',
-                '/GetStarted/03.md',
                 '/GetStarted/complete.md',
                 '/GetStarted/next.md',
             ],

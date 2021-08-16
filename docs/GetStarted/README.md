@@ -11,16 +11,24 @@ editLink: true
 
 Let's set up your **ZimaBoard** and see what you can do with it!
 
-## 🧐 What will you learn
+## What will you learn
 
 - Connect and boot up the ZimaBoard
-- Create an intranet shared disk via Samba
 
-## 🧰 What will you need
+## What will you need
 
-> 图
+<!-- 
+![ZimaBoard](/images/ZimaBoard/product_1.png)
+![PowerAdapter](/images/Accessories/12V-3A-Power-Adapter-1.jpg)
+![EthernetCable](/images/Accessories/Cat5e-Ethernet-Cable-1.jpg)
+ -->
+
+<p style="text-align: center;" >
+  <img src="/images/ZimaBoard/product_1.png" style="max-width: 33%; max-height: 200px;" />
+  <img src="/images/Accessories/12V-3A-Power-Adapter-1.jpg" style="max-width: 33%; max-height: 200px;" />
+  <img src="/images/Accessories/Cat5e-Ethernet-Cable-1.jpg" style="max-width: 33%; max-height: 200px;" />
+</p>
 
 - 1 x ZimaBoard 216/432/832
 - 1 x Power Adapter
-- 1 x SATA 2.5' Hard Disk
 - 1 x Ethernet cable

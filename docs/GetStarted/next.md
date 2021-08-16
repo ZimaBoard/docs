@@ -1,11 +1,11 @@
 ---
-title: What next?
+title: What Next?
 
 editLink: true
 
 ---
 
-# What next?
+# What Next?
 
 ![ZimaBoard](/images/ZimaBoard/g4.jpeg)
 
