@@ -7,4 +7,6 @@ editLink: true
 
 # Community
 
-Under Construction...
+::: tip
+This Page is Under Construction...
+:::

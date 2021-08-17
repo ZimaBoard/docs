@@ -7,4 +7,6 @@ editLink: true
 
 # Knowledge Base
 
-Under Construction...
+::: tip
+This Page is Under Construction...
+:::

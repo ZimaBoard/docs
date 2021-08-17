@@ -3,10 +3,18 @@ title: What Next?
 
 editLink: true
 
+head:
+  - - script
+    - src: "https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"
+
 ---
 
 # What Next?
 
-![ZimaBoard](/images/ZimaBoard/g4.jpeg)
+<lottie-player v-pre src="https://assets4.lottiefiles.com/packages/lf20_hcvhvcxy.json"  background="transparent"  speed="1"  style="width: 100%;"  loop  autoplay></lottie-player>
 
-Let's set up your **ZimaBoard** and see what you can do with it!
+::: tip
+Let's create more possibilities with ZimaBoard!
+:::
+
+[<Badge text="Go to Projects"/>](/Projects/)

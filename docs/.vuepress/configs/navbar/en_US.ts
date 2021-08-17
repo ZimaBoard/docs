@@ -7,7 +7,15 @@ export const en_US: NavbarConfig = [
     },
     {
         text: 'Projects',
-        link: '/Projects/',
+        children: [
+            {
+                text: 'Overview',
+                link: '/Projects/README.md',
+            },
+            '/Projects/PersonalCloudApps.md',
+            '/Projects/TinkeringNetworking.md',
+            '/Projects/Hardware&Intelligence.md',
+        ],
     },
     {
         text: 'Knowledge Base',
