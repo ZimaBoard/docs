@@ -12,9 +12,9 @@ export const en_US: NavbarConfig = [
                 text: 'Overview',
                 link: '/Projects/README.md',
             },
-            '/Projects/PersonalCloudApps.md',
-            '/Projects/TinkeringNetworking.md',
-            '/Projects/Hardware&Intelligence.md',
+            '/Projects/PersonalCloudApps/README.md',
+            '/Projects/TinkeringNetworking/README.md',
+            '/Projects/Hardware&Intelligence/README.md',
         ],
     },
     {
