@@ -11,7 +11,7 @@ This Page is Under Construction...
 
 # Projects Overview
 
-| [Personal Cloud Apps](./PersonalCloudApps/)              | [Tinkering Networking](./TinkeringNetworking/)  | [Hardware & Intelligence](./Hardware&Intelligence/)          |
+| [Personal Cloud Apps](./PersonalCloudApps/)                | [Tinkering Networking](./TinkeringNetworking/)  | [Hardware & Intelligence](./Hardware&Intelligence/)          |
 | ---------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------- |
 | Create Your Unlimited Personal Cloud Storage               | Gaming Across the Regions (Setup VPN Tunnels)     | Managing 50 Smart Gadgets in One Dashboard (HomeBridge / Haas) |
 | Sync Files from Mutiple Devices Automatically              | Gaming without Latency                            | Customize Smart Devices Workflow (Music and Lights)            |
