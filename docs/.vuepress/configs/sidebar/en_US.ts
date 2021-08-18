@@ -13,18 +13,18 @@ export const en_US: SidebarConfig = {
             ],
         },
     ],
-    // '/Projects/': [
-    //     {
-    //         text: 'Projects with ZimaBoard',
-    //         children: [
-    //             {
-    //                 text: 'Overview',
-    //                 link: '/Projects/README.md',
-    //             },
-    //             '/Projects/PersonalCloudApps.md',
-    //             '/Projects/TinkeringNetworking.md',
-    //             '/Projects/Hardware&Intelligence.md',
-    //         ],
-    //     },
-    // ],
+    '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/': [
+        {
+            text: 'Create Your First Personal Cloud Storage',
+            children: [
+                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/README.md',
+                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/01.md',
+                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/02.md',
+                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/03.md',
+                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/04.md',
+                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/Complete.md',
+                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/Next.md',
+            ],
+        },
+    ],
 }

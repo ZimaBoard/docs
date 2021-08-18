@@ -4,16 +4,19 @@ title: Introduction
 editLink: true
 
 ---
-
 # Introduction
 
 ![ZimaBoard](/images/ZimaBoard/g4.jpeg)
 
 Let's create your first **Personal Cloud Storage**!
 
+::: tip
+Please make sure you have completed the [Get Started](/GetStart/) Tutorial
+:::
+
 ## What will you learn
 
-- Mount a Hard Drive
+- Mount a Hard Disk
 - Sharing folders in the intranet via Samba
 
 ## What will you need
@@ -30,4 +33,4 @@ Let's create your first **Personal Cloud Storage**!
 - 1 x Power Adapter
 - 1 x Ethernet cable
 - 1 x Single Channel Pure Black SATA Cable
-- 1 x 2.5" Hard Drive
+- 1 x 2.5" Hard Disk
