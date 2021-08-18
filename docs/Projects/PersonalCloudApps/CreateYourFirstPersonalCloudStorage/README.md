@@ -17,7 +17,7 @@ Please make sure you have completed the [Get Started](/GetStart/) Tutorial
 ## What will you learn
 
 - Mount a Hard Disk
-- Sharing folders in the intranet via Samba
+- Sharing the disk in the local network
 
 ## What will you need
 
