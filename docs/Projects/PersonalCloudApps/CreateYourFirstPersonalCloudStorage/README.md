@@ -9,20 +9,25 @@ editLink: true
 
 ![ZimaBoard](/images/ZimaBoard/g4.jpeg)
 
-Let's set up your **ZimaBoard** and see what you can do with it!
+Let's create your first **Personal Cloud Storage**!
 
 ## What will you learn
 
-- Connect and boot up the ZimaBoard
+- Mount a Hard Drive
+- Sharing folders in the intranet via Samba
 
 ## What will you need
 
 <p style="text-align: center;" >
-  <img src="/images/ZimaBoard/product_1.png" style="max-width: 33%; max-height: 200px;" />
-  <img src="/images/Accessories/12V-3A-Power-Adapter-1.jpg" style="max-width: 33%; max-height: 200px;" />
-  <img src="/images/Accessories/Cat5e-Ethernet-Cable-1.jpg" style="max-width: 33%; max-height: 200px;" />
+  <img src="/images/ZimaBoard/product_1.png" style="max-width: 20%; max-height: 200px;" />
+  <img src="/images/Accessories/12V-3A-Power-Adapter-1.jpg" style="max-width: 20%; max-height: 200px;" />
+  <img src="/images/Accessories/Cat5e-Ethernet-Cable-1.jpg" style="max-width: 20%; max-height: 200px;" />
+  <img src="/images/Accessories/Single-Channel-Pure-Black-SATA-Cable.jpg" style="max-width: 20%; max-height: 200px;" />
+  <img src="/images/Accessories/2_5-HD.jpg" style="max-width: 20%; max-height: 200px;" />
 </p>
 
 - 1 x ZimaBoard 216/432/832
 - 1 x Power Adapter
 - 1 x Ethernet cable
+- 1 x Single Channel Pure Black SATA Cable
+- 1 x 2.5" Hard Drive
