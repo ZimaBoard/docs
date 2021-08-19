@@ -1,5 +1,5 @@
 ---
-title: Personal Cloud Apps
+title: Personal Cloud
 
 editLink: true
 
