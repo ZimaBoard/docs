@@ -1,29 +1,29 @@
 import type { SidebarConfig } from '@vuepress/theme-default'
 
 export const en_US: SidebarConfig = {
-    '/GetStarted/': [
+    '/get-started/': [
         {
             text: 'Get Started with ZimaBoard',
             children: [
-                '/GetStarted/README.md',
-                '/GetStarted/01.md',
-                '/GetStarted/02.md',
-                '/GetStarted/Complete.md',
-                '/GetStarted/Next.md',
+                '/get-started/README.md',
+                '/get-started/01.md',
+                '/get-started/02.md',
+                '/get-started/complete.md',
+                '/get-started/next.md',
             ],
         },
     ],
-    '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/': [
+    '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/': [
         {
             text: 'Create Your First Personal Cloud Storage',
             children: [
-                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/README.md',
-                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/01.md',
-                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/02.md',
-                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/03.md',
-                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/04.md',
-                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/Complete.md',
-                '/Projects/PersonalCloudApps/CreateYourFirstPersonalCloudStorage/Next.md',
+                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/README.md',
+                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/01.md',
+                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/02.md',
+                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/03.md',
+                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/04.md',
+                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/complete.md',
+                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/next.md',
             ],
         },
     ],

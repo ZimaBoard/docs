@@ -3,27 +3,27 @@ import type { NavbarConfig } from '@vuepress/theme-default'
 export const en_US: NavbarConfig = [
     {
         text: 'Get Started',
-        link: '/GetStarted/',
+        link: '/get-started/',
     },
     {
         text: 'Projects',
         children: [
             {
                 text: 'Overview',
-                link: '/Projects/README.md',
+                link: '/projects/',
             },
-            '/Projects/PersonalCloudApps/README.md',
-            '/Projects/TinkeringNetworking/README.md',
-            '/Projects/Hardware&Intelligence/README.md',
+            '/projects/personal-cloud/',
+            '/projects/tinkering-networking/',
+            '/projects/hardware-n-intelligence/',
         ],
     },
     {
         text: 'Knowledge Base',
-        link: '/KnowledgeBase/',
+        link: '/kb/',
     },
     {
         text: 'Community',
-        link: '/Community/',
+        link: '/community/',
     },
     {
         text: 'Shop',

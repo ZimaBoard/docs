@@ -9,7 +9,7 @@ editLink: true
 This Page is Under Construction...
 :::
 
-| [Overview](..) | Personal Cloud Apps | [Tinkering Networking](../TinkeringNetworking/) | [Hardware & Intelligence](../Hardware&Intelligence/) |
+| [Overview](..) | Personal Cloud | [Tinkering Networking](../TinkeringNetworking/) | [Hardware & Intelligence](../Hardware&Intelligence/) |
 | --- | --- | --- | --- |
 
 # Personal Cloud Apps

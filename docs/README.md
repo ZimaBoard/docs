@@ -4,13 +4,13 @@ title: Home
 heroImage: /images/hero.png
 actions:
   - text: Get Started
-    link: /GetStarted/
+    link: /get-started/
     type: primary
   - text: Projects
-    link: /Projects/
+    link: /projects/
     type: secondary
   - text: Knowledge Base
-    link: /KnowledgeBase/
+    link: /kb/
     type: secondary
 # features:
 #   - title: Home Server
