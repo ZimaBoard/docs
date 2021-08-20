@@ -88,8 +88,8 @@ export default defineUserConfig<DefaultThemeOptions>({
         [
             '@vuepress/register-components',
             {
-              componentsDir: path.resolve(__dirname, './components'),
+                componentsDir: path.resolve(__dirname, './components'),
             },
-          ],
+        ],
     ],
 })
