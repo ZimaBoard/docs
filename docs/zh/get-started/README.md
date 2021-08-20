@@ -1,21 +1,24 @@
 ---
-title: Introduction
+title: ZimaBoard 就是你的服务器
 
 editLink: true
 
 ---
 
-# Introduction
+# ZimaBoard 就是你的服务器
 
 ![ZimaBoard](/images/ZimaBoard/g4.jpeg)
 
-Let's set up your **ZimaBoard** and see what you can do with it!
+相信你已经看到了， **ZimaBoard** 世界上第一个**单板服务器**<sup>(Single Board Server)</sup>。
+那么你的服务器该怎么玩呢？让我们一起来上手体验一下！
 
-## What will you learn
+## 你会了解到什么
 
-- Connect and boot up the ZimaBoard
+- 接线并开启 ZimaBoard
+- 远程访问服务器桌面
+- 
 
-## What will you need
+## 你需要准备什么
 
 <!-- 
 ![ZimaBoard](/images/ZimaBoard/product_1.png)
@@ -30,5 +33,5 @@ Let's set up your **ZimaBoard** and see what you can do with it!
 </p>
 
 - 1 x ZimaBoard 216/432/832
-- 1 x Power Adapter
-- 1 x Ethernet cable
+- 1 x 电源适配器
+- 1 x 网线

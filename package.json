@@ -7,7 +7,7 @@
   "author": "JohnGuan <guan.ningchuan@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.22"
+    "vuepress": "^2.0.0-beta.24"
   },
   "scripts": {
     "dev": "vuepress dev docs",
@@ -15,5 +15,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@vuepress/plugin-register-components": "^2.0.0-beta.24"
+  }
 }

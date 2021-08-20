@@ -30,7 +30,7 @@ export const zh_CN: NavbarConfig = [
         link: 'https://shop.zimaboard.com',
     },
     {
-        text: '返回主页',
+        text: '返回官网',
         link: 'https://www.zimaboard.com',
     },
 ]
