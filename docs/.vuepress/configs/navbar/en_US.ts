@@ -10,7 +10,7 @@ export const en_US: NavbarConfig = [
         children: [
             {
                 text: 'Overview',
-                link: '/projects/README.md',
+                link: '/projects/index.html',
             },
             '/projects/personal-cloud/',
             '/projects/tinkering-networking/',
