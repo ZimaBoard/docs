@@ -22,7 +22,7 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 2. 播放Samba共享盘中的4K影片，✌.|•͡˘‿•͡˘|.✌
 ![Play Movie](./images/frozen-planet-screenshot.png)
 
-::: Tip
+::: tip
 以下是这些共享文件夹在ZimaBoard中默认挂载的位置
  - Music：/media/Volume1/Music
  - Video：/media/Volume1/Video
@@ -63,7 +63,6 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 ::: tip
 除了系统默认的files，ES files Explorer类的工具也能更好地帮助你，直接访问和播放服务器内的所有视频，影片和文件资料
 :::
-到这，我就挺想[通过远程登录的方式]()，访问家庭服务器中的资料（对应教程开发中...）
 
 ## Windows访问
 
@@ -76,3 +75,5 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 ::: tip
 本地网络上的所有设备都可以“客人(guest)”身份使用这些共享文件夹。
 :::
+
+到这，我就挺想[通过远程登录的方式]()，访问家庭服务器中的资料（对应教程开发中...）
