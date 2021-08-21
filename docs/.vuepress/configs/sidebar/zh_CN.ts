@@ -16,17 +16,17 @@ export const zh_CN: SidebarConfig = {
             ],
         },
     ],
-    '/zh/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/': [
+    '/zh/projects/CreateYourFirstPersonalCloudStorage/': [
         {
             text: 'Create Your First Personal Cloud Storage',
             children: [
-                '/zh/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/README.md',
-                '/zh/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/01.md',
-                '/zh/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/02.md',
-                '/zh/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/03.md',
-                '/zh/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/04.md',
-                '/zh/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/complete.md',
-                '/zh/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/next.md',
+                '/zh/projects/CreateYourFirstPersonalCloudStorage/README.md',
+                '/zh/projects/CreateYourFirstPersonalCloudStorage/01.md',
+                '/zh/projects/CreateYourFirstPersonalCloudStorage/02.md',
+                '/zh/projects/CreateYourFirstPersonalCloudStorage/03.md',
+                '/zh/projects/CreateYourFirstPersonalCloudStorage/04.md',
+                '/zh/projects/CreateYourFirstPersonalCloudStorage/complete.md',
+                '/zh/projects/CreateYourFirstPersonalCloudStorage/next.md',
             ],
         },
     ],

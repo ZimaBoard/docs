@@ -13,17 +13,17 @@ export const en_US: SidebarConfig = {
             ],
         },
     ],
-    '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/': [
+    '/projects/CreateYourFirstPersonalCloudStorage/': [
         {
             text: 'Create Your First Personal Cloud Storage',
             children: [
-                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/README.md',
-                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/01.md',
-                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/02.md',
-                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/03.md',
-                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/04.md',
-                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/complete.md',
-                '/projects/personal-cloud/CreateYourFirstPersonalCloudStorage/next.md',
+                '/projects/CreateYourFirstPersonalCloudStorage/README.md',
+                '/projects/CreateYourFirstPersonalCloudStorage/01.md',
+                '/projects/CreateYourFirstPersonalCloudStorage/02.md',
+                '/projects/CreateYourFirstPersonalCloudStorage/03.md',
+                '/projects/CreateYourFirstPersonalCloudStorage/04.md',
+                '/projects/CreateYourFirstPersonalCloudStorage/complete.md',
+                '/projects/CreateYourFirstPersonalCloudStorage/next.md',
             ],
         },
     ],
