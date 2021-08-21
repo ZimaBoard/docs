@@ -5,7 +5,7 @@ editLink: true
 
 # 初见家庭服务器
 
-![ZimaBoard](./images/hero-image-get-started.png)
+![zimaboard-get-started](./images/hero-image-get-started.png)
 
 不论你是专家还是新手，快速上手教程将带你熟悉ZimaBoard的基础硬件规格、预制的家庭服务器基本应用，和调试与开发的一些基础的账号权限系统等。
 通过这个简短的教程，你将在15分钟内，搭建起你家全新的一台个人数据中心。这就让我们开始吧！
@@ -19,11 +19,13 @@ editLink: true
 
 ## 硬件筹备
 
-<p style="text-align: center;" >
+![zimaboard power on hardware list](./images/get-started-hardware-list.jpg)
+
+<!-- <p style="text-align: center;" >
   <img src="/images/ZimaBoard/product_1.png" style="max-width: 33%; max-height: 200px;" />
   <img src="/images/Accessories/12V-3A-Power-Adapter-1.jpg" style="max-width: 33%; max-height: 200px;" />
   <img src="/images/Accessories/Cat5e-Ethernet-Cable-1.jpg" style="max-width: 33%; max-height: 200px;" />
-</p>
+</p> -->
 
 - ZimaBoard 
 - 12v3A 电源适配器
@@ -32,10 +34,25 @@ editLink: true
 - 2.5" SATA SSD or HDD
 
 ::: tip
-ZimaBoard的设计初衷是家庭服务器，所以，你并不需要像电脑一样将鼠标键盘和显示屏接入ZimaBoard，一通繁琐的接线，你可以直接通过网络访问ZimaBoard上所有服务。
+不需要像鼠标键盘和显示屏接入ZimaBoard，一通繁琐的接线，你可以直接通过网络访问ZimaBoard上所有服务。
 当然，如果你觉得接插显示屏更为便捷，也可以配上miniPD转HDMI线和鼠键。
 :::
 
-## 接线上电
+## 接线与上电
 
-先接配件再上电是基本礼仪...
+1. 先接配件再上电是基本礼仪，推荐将ZimaBoard通过网线接入到你的路由器或者光猫下，参考该图
+![ethernet connection guide](./images/eth-connection.jpeg)
+
+2. 先不上电！一张图到位，硬件接线图如下
+![SATA and Ethernet Connection](./images/get-started-eth-connection.jpg)
+
+3. 插上电源线，网络指示灯闪烁！(ง ͡ʘ ͜ʖ ͡ʘ)ง
+![Power On](./images/get-started-power-on.jpg)
+
+::: warning
+网络指示灯正常闪烁，即系统已经正常上电，请耐心等待10-15秒左右！如果没有接插外部磁盘，系统启动可能略长。
+:::
+
+## 发现与访问共享盘（Samba）
+
+### Samba简介
