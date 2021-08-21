@@ -16,9 +16,9 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 1. 打开MacOS系统的Finder（访达）
 [Samba自动发现](./images/zimaboard-samba-local-network-disk.png)
 
-2. 点击该设备，以guest（访客）模式登陆即可看到ZimaBoard默认共享的3个文件夹
+1. 点击该设备，以guest（访客）模式登陆即可看到ZimaBoard默认共享的3个文件夹
 
-3. 播放Samba共享盘中的4K影片，✌.|•͡˘‿•͡˘|.✌
+2. 播放Samba共享盘中的4K影片，✌.|•͡˘‿•͡˘|.✌
 [Play Movie](./images/frozen-planet-screenshot.png)
 
 ::: Tip
@@ -35,7 +35,7 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 ![Finder Go](./images/finder-go.png)
 
 2. 输入`smb://zimaboard.local`，点击“**连接**”
-![Connect to Server](./images/connect-to-server.png)
+![Connect to Server](./images/connect-to-server-ios.png)
 
 3. 选择连接身份，这里我们直接选择“**客人**”，然后点击“**连接**”
 ![macOS Connect Auth](./images/mac-connect-auth.png)
