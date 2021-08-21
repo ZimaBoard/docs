@@ -14,12 +14,13 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 
 ### 自动发现机制，可以自动发现局域网磁盘
 1. 打开MacOS系统的Finder（访达）
-[Samba自动发现](./images/zimaboard-samba-local-network-disk.png)
+
+![Samba自动发现](./images/zimaboard-samba-local-network-disk.png)
 
 1. 点击该设备，以guest（访客）模式登陆即可看到ZimaBoard默认共享的3个文件夹
 
 2. 播放Samba共享盘中的4K影片，✌.|•͡˘‿•͡˘|.✌
-[Play Movie](./images/frozen-planet-screenshot.png)
+![Play Movie](./images/frozen-planet-screenshot.png)
 
 ::: Tip
 以下是这些共享文件夹在ZimaBoard中默认挂载的位置
