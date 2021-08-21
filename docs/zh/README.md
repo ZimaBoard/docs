@@ -1,6 +1,6 @@
 ---
 home: true
-title: Play
+title: Docs
 heroImage: /images/home_server_apps.png
 actions: 
   - text: 行动 →
