@@ -15,7 +15,7 @@ editLink: true
 
 - 接线并开启 ZimaBoard
 - 远程访问你的服务器桌面
-- 内网文件共享
+- 连接到共享文件夹
 - 体验Nextcloud私有云
 - 用Emby管理你的影音资源
 
