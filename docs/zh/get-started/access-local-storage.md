@@ -1,9 +1,9 @@
 ---
-title: 发现与访问共享盘
+title: PC/手机/VR访问共享盘
 editLink: true
 ---
 
-# 发现与访问共享盘
+# PC/手机/VR访问共享盘
 
 ## 简要背景
 ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和打印机的一种通信协议。
