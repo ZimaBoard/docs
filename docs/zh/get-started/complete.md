@@ -1,5 +1,5 @@
 ---
-title: Complete!
+title: 完成!
 
 editLink: true
 
@@ -9,10 +9,10 @@ head:
 
 ---
 
-# Complete!
+# 完成!
 
 <lottie-player v-pre src="/lottiefiles/complete.json"  background="transparent"  speed="1"  style="width: 100%;"    autoplay></lottie-player>
 
-::: details 😁 How does it feel? Give us your feedback!
-Feedback is Under Construction...
+::: details 😁 感觉怎么样? 给个反馈吧!
+反馈模块正在构建中……
 :::
