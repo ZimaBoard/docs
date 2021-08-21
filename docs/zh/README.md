@@ -2,8 +2,11 @@
 home: true
 title: Play
 heroImage: /images/home_server_apps.png
-actionText: 行动 →
-actionLink: /zh/get-started/
+actions: 
+  - text: 行动 →
+    link: /zh/get-started/
+    type: primary
+    
 features:
 - title: 入门
   details: 通过简短的篇幅，15分钟内快速遍历入门级的基础功能和应用，如MacOS和Windows访问共享备份盘，上手媒体服务器等
