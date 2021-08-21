@@ -14,6 +14,12 @@ editLink: true
 
 - ZimaBoard上电开机
 - 发现与访问共享盘（Samba）
+## 你会了解到什么
+
+- 接线并开启 ZimaBoard
+- 远程访问你的服务器桌面
+- 连接到共享文件夹
+- 体验Nextcloud私有云
 - 用Emby管理你的影音资源
 - 体验Nextcloud私有云
 
