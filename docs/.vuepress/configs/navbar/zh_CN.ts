@@ -2,11 +2,11 @@ import type { NavbarConfig } from '@vuepress/theme-default'
 
 export const zh_CN: NavbarConfig = [
     {
-        text: '快速上手',
+        text: '入门',
         link: '/zh/get-started/',
     },
     {
-        text: '项目',
+        text: '探索',
         children: [
             {
                 text: '概览',

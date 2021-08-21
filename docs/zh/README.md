@@ -1,17 +1,18 @@
 ---
 home: true
-title: 主页
+title: Play
 heroImage: /images/hero.png
 actions:
-  - text: 快速上手
+  - text: 入门
     link: /zh/get-started/
     type: primary
-  - text: 项目
+  - text: 探索
     link: /zh/projects/
     type: secondary
   - text: 知识库
     link: /zh/kb/
     type: secondary
+
 # features:
 #   - title: Home Server
 #     details: Create a 4TB home media server with multiple apps in less than 10 minutes. No subscription fee, 24 hours online, easy to access.
