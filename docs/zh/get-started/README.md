@@ -14,14 +14,8 @@ editLink: true
 
 - ZimaBoard上电开机
 - 发现与访问共享盘（Samba）
-## 你会了解到什么
-
-- 接线并开启 ZimaBoard
-- 远程访问你的服务器桌面
-- 连接到共享文件夹
 - 体验Nextcloud私有云
 - 用Emby管理你的影音资源
-- 体验Nextcloud私有云
 
 ## 硬件筹备
 
@@ -39,7 +33,7 @@ editLink: true
 
 ::: tip
 ZimaBoard的设计初衷是家庭服务器，所以，你并不需要像电脑一样将鼠标键盘和显示屏接入ZimaBoard，一通繁琐的接线，你可以直接通过网络访问ZimaBoard上所有服务。
-当然，如果你觉得接插显示屏更为便捷，也可以配上miniPD转HDMI线，和
+当然，如果你觉得接插显示屏更为便捷，也可以配上miniPD转HDMI线和鼠键。
 :::
 
 ## 接线上电
