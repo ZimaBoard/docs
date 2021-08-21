@@ -6,6 +6,7 @@ export const zh_CN: SidebarConfig = {
             text: '快速上手',
             children: [
                 '/zh/get-started/README.md',
+                '/zh/get-started/access-local-storage.md',
                 '/zh/get-started/01.md',
                 '/zh/get-started/02.md',
                 '/zh/get-started/03.md',
