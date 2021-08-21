@@ -7,24 +7,24 @@ export default defineUserConfig<DefaultThemeOptions>({
     base: '/',
 
     lang: 'en-US',
-    title: 'ZimaBoard Docs',
-    description: 'ZimaBoard Official Documentation',
+    title: 'Home Server Docs',
+    description: 'This is a ZimaBoard Official Documentation Website for building home server applications and exploring posibilities with ZimaBoard.',
 
     // site-level locales config
     locales: {
         '/': {
             lang: 'en-US',
-            title: 'ZimaBoard Docs',
-            description: 'Your All In One Home Server Manual',
+            title: 'Deploy Home Server to Create a Unique Digital Experience',
+            description: 'Explore Interesting Home Server Apps following Rich Tutorials',
         },
         '/zh/': {
             lang: 'zh-CN',
-            title: 'ZimaBoard 文档',
-            description: '你的一站式家庭服务器手册',
+            title: '部署家庭服务器，打造独特的数字体验',
+            description: '从0到1，带你探索有趣的家庭服务器应用',
         },
     },
     themeConfig: {
-        logo: '/images/hero.png',
+        logo: '/images/home_server_apps.png',
         repo: 'zimaboard/docs',
 
         docsDir: 'docs',
@@ -46,7 +46,7 @@ export default defineUserConfig<DefaultThemeOptions>({
                 sidebar: sidebar.en_US,
 
                 // page meta
-                editLinkText: 'Edit this page on GitHub',
+                editLinkText: 'Contribute via GitHub',
             },
             '/zh/': {
                 // navbar
