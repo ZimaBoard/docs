@@ -10,11 +10,11 @@ export const zh_CN: NavbarConfig = [
         children: [
             {
                 text: '概览',
-                link: '/zh/projects/index.html',
+                link: '/zh/explore/index.html',
             },
-            '/zh/projects/personal-cloud/',
-            '/zh/projects/tinkering-networking/',
-            '/zh/projects/hardware-n-intelligence/',
+            '/zh/explore/personal-cloud/',
+            '/zh/explore/tinkering-networking/',
+            '/zh/explore/hardware-n-intelligence/',
         ],
     },
     {

@@ -6,15 +6,15 @@ export const en_US: NavbarConfig = [
         link: '/get-started/',
     },
     {
-        text: 'Projects',
+        text: 'Explore',
         children: [
             {
                 text: 'Overview',
-                link: '/projects/index.html',
+                link: '/explore/index.html',
             },
-            '/projects/personal-cloud/',
-            '/projects/tinkering-networking/',
-            '/projects/hardware-n-intelligence/',
+            '/explore/personal-cloud/',
+            '/explore/tinkering-networking/',
+            '/explore/hardware-n-intelligence/',
         ],
     },
     {
