@@ -4,6 +4,7 @@ node_modules
 # Generated files
 .temp
 .cache
+docs/.vuepress/dist
 
 # Misc
 .DS_Store
