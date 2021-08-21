@@ -10,6 +10,7 @@ editLink: true
 ![ZimaBoard](/images/ZimaBoard/g4.jpeg)
 
 相信你已经看到了， **ZimaBoard** 世界上第一个**单板服务器**<sup>(Single Board Server)</sup>。
+
 那么你的服务器该怎么玩呢？让我们一起来上手体验一下！
 
 ## 你会了解到什么
@@ -18,7 +19,7 @@ editLink: true
 - 远程访问你的服务器桌面
 - 内网文件共享
 - 体验Nextcloud私有云
-- 通过Plex串流在电视上看下载好的电影
+- 用Emby管理你的影音资源
 
 
 ## 你需要准备什么
