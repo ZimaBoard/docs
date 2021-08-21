@@ -1,13 +1,11 @@
 ---
-title: ZimaBoard 就是你的服务器
-
+title: 初见家庭服务器
 editLink: true
-
 ---
 
-# ZimaBoard 就是你的服务器
+# 初见家庭服务器
 
-![ZimaBoard](/images/ZimaBoard/g4.jpeg)
+![ZimaBoard](./images/hero-image-get-started.png)
 
 相信你已经看到了， **ZimaBoard** 世界上第一个**单板服务器**<sup>(Single Board Server)</sup>。
 
