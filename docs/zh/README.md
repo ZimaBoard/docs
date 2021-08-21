@@ -2,7 +2,7 @@
 home: true
 title: Play
 heroImage: /images/home_server_apps.png
-actionText: 入门 →
+actionText: 行动 →
 actionLink: /zh/get-started/
 features:
 - title: 入门

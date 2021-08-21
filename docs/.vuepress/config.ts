@@ -14,12 +14,12 @@ export default defineUserConfig<DefaultThemeOptions>({
     locales: {
         '/': {
             lang: 'en-US',
-            title: 'Explore Home Server',
+            title: 'Play with ZimaBoard',
             description: 'Deploy and Create Interesting Home Server Apps',
         },
         '/zh/': {
             lang: 'zh-CN',
-            title: '探索家庭服务器',
+            title: 'Play with ZimaBoard',
             description: '从0到1，带你探索有趣的家庭服务器应用',
         },
     },
