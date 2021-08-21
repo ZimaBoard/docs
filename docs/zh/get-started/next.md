@@ -1,5 +1,5 @@
 ---
-title: What Next?
+title: 接下来干啥?
 
 editLink: true
 
@@ -9,10 +9,10 @@ head:
 
 ---
 
-# What Next?
+# 接下来干啥?
 
 <lottie-player v-pre src="/lottiefiles/find.json"  background="transparent"  speed="1"  style="width: 100%;"  loop  autoplay></lottie-player>
 
-**Let's create more possibilities with ZimaBoard!**
+**让我继续用 ZimaBoard 创造更多可能吧！**
 
-[<Badge text="Go to Projects"/>](/Projects/)
+[<Badge text="前往项目"/>](/projects/)
