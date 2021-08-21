@@ -10,6 +10,7 @@ export const zh_CN: SidebarConfig = {
                 '/zh/get-started/02.md',
                 '/zh/get-started/03.md',
                 '/zh/get-started/04.md',
+                '/zh/get-started/05.md',
                 '/zh/get-started/complete.md',
                 '/zh/get-started/next.md',
             ],
