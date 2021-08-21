@@ -3,7 +3,7 @@ import type { SidebarConfig } from '@vuepress/theme-default'
 export const zh_CN: SidebarConfig = {
     '/zh/get-started/': [
         {
-            text: 'ZimaBoard 快速上手',
+            text: '快速上手',
             children: [
                 '/zh/get-started/README.md',
                 '/zh/get-started/01.md',
