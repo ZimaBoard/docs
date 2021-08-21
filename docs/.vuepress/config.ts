@@ -7,24 +7,24 @@ export default defineUserConfig<DefaultThemeOptions>({
     base: '/',
 
     lang: 'en-US',
-    title: 'Home Server Docs',
+    title: 'ZimaBoard Docs',
     description: 'This is a ZimaBoard Official Documentation Website for building home server applications and exploring posibilities with ZimaBoard.',
 
     // site-level locales config
     locales: {
         '/': {
             lang: 'en-US',
-            title: 'Deploy Home Server to Create a Unique Digital Experience',
-            description: 'Explore Interesting Home Server Apps following Rich Tutorials',
+            title: 'Explore Home Server',
+            description: 'Deploy and Create Interesting Home Server Apps',
         },
         '/zh/': {
             lang: 'zh-CN',
-            title: '部署家庭服务器，打造独特的数字体验',
+            title: '探索家庭服务器',
             description: '从0到1，带你探索有趣的家庭服务器应用',
         },
     },
     themeConfig: {
-        logo: '/images/home_server_apps.png',
+        logo: '/images/hero.png',
         repo: 'zimaboard/docs',
 
         docsDir: 'docs',

@@ -1,7 +1,7 @@
 ---
 home: true
 title: Play
-heroImage: /images/hero.png
+heroImage: /images/home_server_apps.png
 actions:
   - text: 入门
     link: /zh/get-started/
