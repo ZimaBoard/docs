@@ -8,6 +8,7 @@ export const zh_CN: SidebarConfig = {
                 '/zh/get-started/README.md',
                 '/zh/get-started/access-local-storage-cn.md',
                 '/zh/get-started/hands-on-emby-cn.md',
+                '/zh/get-started/oculus-meet-zimaboard.md',
                 // '/zh/get-started/02.md',
                 // '/zh/get-started/03.md',
                 // '/zh/get-started/04.md',
