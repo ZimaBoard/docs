@@ -36,9 +36,9 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 ![Finder Go](./images/finder-go.png)
 
 2. 输入`smb://zimaboard.local`，点击“**连接**”
-![Connect to Server](./images/connect-to-server-ios.png)
+![Connect to Server](./images/connect-to-server.png)
 
-3. 选择连接身份，这里我们直接选择“**客人**”，然后点击“**连接**”
+1. 选择连接身份，这里我们直接选择“**客人**”，然后点击“**连接**”
 ![macOS Connect Auth](./images/mac-connect-auth.png)
 
 4. 接下来选择你想要连接的文件夹就好了
@@ -49,9 +49,9 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 ![搜索files](./images/search-files-ios.jpg)
 
 2. 点击右上角按钮，找到Connect to Server按钮，点击登陆
-![连接ZimaBoard本地服务器](./images/connect-to-server.png)
+![连接ZimaBoard本地服务器](./images/connect-to-server-ios.png)
 
-3. 输入mDNS域名（ZimaBoard默认设备域名） - zimaboard.local，或者通过[路由器查看了解ZimaBoard对应的ip地址]()(知识库教程)
+1. 输入mDNS域名（ZimaBoard默认设备域名） - zimaboard.local，或者通过[路由器查看了解ZimaBoard对应的ip地址]()(知识库教程)
 ![输入ip地址](./images/enter-ip-address-ios.jpg)
 
 4. 以访客模式登陆（默认Samba配置）
@@ -84,5 +84,21 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 待撰写
 
 ### BigScreen访问DLNA服务器内容
-待撰写
 
+除了基础的Samba局域网服务外，ZimaBoard也预部署了miniDLNA的服务，通过DLNA的服务器，Oculus可以便捷地通过多种应用访问你家庭服务器中的影片和内容
+在本片教程中，我们使用Oculus上的BigScreen应用来播放影片
+
+1. 从Oculus Store安装，打开BigScreen应用
+![打开BigScreen](./images/open-bigscreen-cn.jpeg)
+
+2. 点击播放视频
+![Play Video](./images/open-local-video-cn.jpeg)
+
+3. 稍后，Oculus扫描所有本地的DLNA服务器，并选中ZimaBoard广播的DLNA服务
+![Find DLNA Server](./images/search-dlna-server-cn.jpeg)
+
+4. 选择你对应的媒体内容，Enjoy it! 
+![Play Movie with BigScreen](./images/enjoy-bigscreen-with-oculus-cn.jpeg)
+
+通过以上简单步骤，即可使用Oculus的媒体播放器，加载家庭服务器上的各种影片和内容！...先不聊了，让我看会片(~˘▾˘)~
+不过用Oculus看2D影片总觉得哪里不太对，后续更新VR内容的简单教程...
