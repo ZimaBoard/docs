@@ -12,7 +12,7 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 
 ## MacOS访问ZimaBoard共享盘
 
-### 自动发现机制，可以自动发现局域网磁盘
+### 自发现局域网磁盘
 1. 打开MacOS系统的Finder（访达）
 
 ![Samba自动发现](./images/zimaboard-samba-local-network-disk.png)
@@ -31,7 +31,7 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 你可以通过/etc/samba/smb.config对共享文件夹路径和名称进行再配置，详细内容参考[Samba延生配置资料]()
 :::
 
-### MacOS手动接入方式，效果一致
+### MacOS手动接入
 1. 在 **访达(Finder)** 的菜单中, 依次点击 **前往** > **连接到服务器…**  
 ![Finder Go](./images/finder-go.png)
 
@@ -77,3 +77,12 @@ ZimaBoard预制了Samba服务，它是一种常用的局域网内共享文件和
 :::
 
 到这，我就挺想[通过远程登录的方式]()，访问家庭服务器中的资料（对应教程开发中...）
+
+## 如果你在玩Oculus
+
+### Skybox直接访问本地服务器
+待撰写
+
+### BigScreen访问DLNA服务器内容
+待撰写
+
