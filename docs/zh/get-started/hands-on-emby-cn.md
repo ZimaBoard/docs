@@ -55,6 +55,32 @@ editLink: true
 
 Emby 提供了很多的看片途径可供选择，电脑、手机、电视、游戏主机、甚至在VR上你都可以看。
 
+手机查看影片（iOS）
+
 ![Emby iOS](./images/emby-ios.jpg)
 
+Oculus Quest 2 用浏览器看电影
+
+![Emby Oculus Browser](./images/emby-oculus-browser.jpeg)
+
 你可以在[这个链接](https://emby.media/download.html)里的“Emby Apps & Devices”栏目中，查看 Emby 提供哪些平台的客户端下载
+
+## 添加影片
+
+### 通过 Samba 共享文件夹
+
+我们打开共享文件夹中的`Video`文件夹，你可以添加自己的**电影**到`Move`文件夹中
+
+![Samba Video Movie](./images/samba-video-movie.png)
+
+这里我新增一个`Big Buck Bunny`到文件夹中
+
+![Samba Video Movie Add](./images/samba-video-movie-add.png)
+
+接下来我们在 Emby 的媒体库里就可以看到新上传的影片了
+
+![Emby New Movie](./images/emby-new-movie.jpeg)
+
+可以看大兔兔了～
+
+![Emby New Movie Play](./images/emby-new-movie-play.jpeg)
