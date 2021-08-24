@@ -15,4 +15,4 @@ head:
 
 **让我继续用 ZimaBoard 创造更多可能吧！**
 
-[<Badge text="前往项目"/>](/projects/)
+[<Badge text="探索"/>](/zh/explore/)
