@@ -9,7 +9,11 @@ export default defineUserConfig<DefaultThemeOptions>({
     lang: 'en-US',
     title: 'ZimaBoard Docs',
     description: 'This is a ZimaBoard Official Documentation Website for building home server applications and exploring posibilities with ZimaBoard.',
-
+    head: [
+        [
+            'link', { rel: 'stylesheet', href: '/css/zimadocs.css' }
+        ]
+    ],
     // site-level locales config
     locales: {
         '/': {
