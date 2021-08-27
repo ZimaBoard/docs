@@ -43,7 +43,36 @@ editLink: true
 1. 先接配件再上电是基本礼仪，推荐将ZimaBoard通过网线接入到你的路由器或者光猫下，参考该图
 ![ethernet connection guide](./images/eth-connection.jpeg)
 
-2. 先不上电！一张图到位，硬件接线图如下
+::: warning
+
+如果你的网络里有多个路由器，请确保将 ZimaBoard 接入到你的主路由器下。或者至少接入到你用来访问设备的同级路由器。
+
+简单来说，尽量接到最上层的路由器就好了！
+
+::: details
+
+**举个例子如果你的网络是这种情况：**
+
+![Network Case 1](./images/network-case-1.png)
+
+路由器的连接关系如图所示，A路由器和B路由器都连接着不同的上网设备，你希望他们都能连接到 ZimaBoard 的话，请将 ZimaBoard 连接到A路由器。
+
+但是如果你的所有上网设备实际上都连接到B路由器上，或者说你只希望B路由器下的设备访问到 ZimaBoard ，那就连接到B路由器上就可以了。
+
+---
+
+**下面这种网络情况也是一样：**
+
+![Network Case 2](./images/network-case-2.png)
+
+路由器的连接关系如图所示，A、B、C、D路由器都连接着不同的上网设备，你希望他们都能连接到 ZimaBoard 的话，请将 ZimaBoard 连接到A路由器。
+
+如果你只希望B路由器下的设备访问到 ZimaBoard ，那就连接到B路由器上就可以了。这个时候，连接到A、C路由器的设备都访问不到 ZimaBoard 了。
+
+
+:::
+
+1. **先不上电！**一张图到位，硬件接线图如下
 ![SATA and Ethernet Connection](./images/get-started-eth-connection.jpg)
 
 3. 插上电源线，网络指示灯闪烁！(ง ͡ʘ ͜ʖ ͡ʘ)ง
