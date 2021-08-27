@@ -72,7 +72,7 @@ editLink: true
 
 :::
 
-2. **先不上电！**一张图到位，硬件接线图如下
+2.  **先不上电！** 一张图到位，硬件接线图如下
 ![SATA and Ethernet Connection](./images/get-started-eth-connection.jpg)
 
 3. 插上电源线，网络指示灯闪烁！(ง ͡ʘ ͜ʖ ͡ʘ)ง
