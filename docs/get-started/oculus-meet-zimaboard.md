@@ -23,7 +23,7 @@ In this tutorial, we use the BigScreen app on Oculus to play videos
 
 4. Select your corresponding media content and enjoy it! 
 
-Enjoy it! [Play Movie with BigScreen](./images/bigscreen-enjoy.jpeg)
+![Play Movie with BigScreen](./images/bigscreen-enjoy.jpeg)
 
 With these simple steps, you can use Oculus' media player to load various movies and content from your home server! Let's stop talking for now and let me watch the movie (~˘▾˘)~
 
