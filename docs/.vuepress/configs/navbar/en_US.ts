@@ -5,18 +5,10 @@ export const en_US: NavbarConfig = [
         text: 'Get Started',
         link: '/get-started/',
     },
-    // {
-    //     text: 'Explore',
-    //     children: [
-    //         {
-    //             text: 'Overview',
-    //             link: '/explore/index.html',
-    //         },
-    //         '/explore/personal-cloud/',
-    //         '/explore/tinkering-networking/',
-    //         '/explore/hardware-n-intelligence/',
-    //     ],
-    // },
+    {
+        text: 'Explore',
+        link: '/explore/',
+    },
     // {
     //     text: 'Knowledge Base',
     //     link: '/kb/',

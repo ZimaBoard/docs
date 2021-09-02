@@ -1,10 +1,16 @@
 <template>
-  <RouterLink :to="link">
+  <RouterLink v-if="isRouterLink" :to="link">
     <button class="ui button" :class="[extra, icon]">
       <i v-if="icon" :class="icon" class="icon"></i>
-    <slot />
+      <slot></slot>
     </button>
   </RouterLink>
+  <a v-if="!isRouterLink" :href="link" target="_blank">
+    <button class="ui button" :class="[extra, icon]">
+      <i v-if="icon" :class="icon" class="icon"></i>
+      <slot></slot>
+    </button>
+  </a>
 </template>
 
 <script>
@@ -13,7 +19,28 @@ export default {
     text: String,
     link: String,
     extra: String,
-    icon: String
+    icon: String,
+    // _blank: Boolean,
+    // _parent: Boolean,
+    // _top: Boolean,
+  },
+  computed: {
+    isRouterLink() {
+      return !this.link.toString().startsWith("http")
+    },
+    // _target() {
+    //   var target;
+    //   if (this._blank) {
+    //     target = "_blank";
+    //   } else if (this._parent) {
+    //     target = "_parent";
+    //   } else if (this._top) {
+    //     target = "_top";
+    //   } else {
+    //     target = "_self";
+    //   }
+    //   return target;
+    // },
   },
 };
 </script>
@@ -28,4 +55,4 @@ export default {
 </style>
 
 // <action icon="thumbs up" link="/zh/" extra="positive basic">LinkLiang</action>
-// <action text="" link="/zh/">YYDS</action>
+// <action link="/zh/">YYDS</action>

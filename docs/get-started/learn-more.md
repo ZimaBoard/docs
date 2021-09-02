@@ -15,4 +15,4 @@ head:
 
 **Let's create more possibilities with ZimaBoard!**
 
-[<Badge text="Explore"/>](/explore/)
+<action icon="paper plane" link="/explore/" extra="positive basic">Explore</action>

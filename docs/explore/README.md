@@ -9,7 +9,7 @@ editLink: true
 This Page is Under Construction...
 :::
 
-# Explore Projects
+# Explore
 
 | [Personal Cloud ](./personal-cloud/)                | [Tinkering Networking](./tinkering-networking/)  | [Hardware & Intelligence](./hardware-n-intelligence/)          |
 | ---------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------- |
@@ -22,3 +22,10 @@ This Page is Under Construction...
 | NVR Storage                                                |                                                   | ETH Node                                                       |
 | Boom! Play with PCIe Accessories - RAID                    |                                                   |                                                                |
 | Git Server for Daily Use                                   |                                                   |                                                                |
+
+
+## Have a better idea?
+
+Let's bring it to reality together!
+
+<action icon="github" link="https://github.com/ZimaBoard/docs/issues/new/choose" extra="positive basic">Create an Issue</action>
