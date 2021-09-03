@@ -6,12 +6,12 @@ editLink: true
 ---
 # Introduction
 
-![ZimaBoard](/images/ZimaBoard/g4.jpeg)
+![ZimaBoard](/images/zimaboard/g4.jpeg)
 
 Let's create your first **Personal Cloud Storage**!
 
 ::: tip
-Please make sure you have completed the [Get Started](/GetStart/) Tutorial
+Please make sure you have completed the [Get Started](/get-started/) Tutorial
 :::
 
 ## What will you learn
@@ -22,7 +22,7 @@ Please make sure you have completed the [Get Started](/GetStart/) Tutorial
 ## What will you need
 
 <p style="text-align: center;" >
-  <img src="/images/ZimaBoard/product_1.png" style="max-width: 20%; max-height: 200px;" />
+  <img src="/images/zimaboard/product_1.png" style="max-width: 20%; max-height: 200px;" />
   <img src="/images/Accessories/12V-3A-Power-Adapter-1.jpg" style="max-width: 20%; max-height: 200px;" />
   <img src="/images/Accessories/Cat5e-Ethernet-Cable-1.jpg" style="max-width: 20%; max-height: 200px;" />
   <img src="/images/Accessories/Single-Channel-Pure-Black-SATA-Cable.jpg" style="max-width: 20%; max-height: 200px;" />

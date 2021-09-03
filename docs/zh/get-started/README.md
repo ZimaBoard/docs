@@ -21,12 +21,6 @@ editLink: true
 
 ![zimaboard power on hardware list](./images/get-started-hardware-list.jpg)
 
-<!-- <p style="text-align: center;" >
-  <img src="/images/ZimaBoard/product_1.png" style="max-width: 33%; max-height: 200px;" />
-  <img src="/images/Accessories/12V-3A-Power-Adapter-1.jpg" style="max-width: 33%; max-height: 200px;" />
-  <img src="/images/Accessories/Cat5e-Ethernet-Cable-1.jpg" style="max-width: 33%; max-height: 200px;" />
-</p> -->
-
 - ZimaBoard 
 - 12v3A 电源适配器
 - 超5类或更高规格网线

@@ -2,6 +2,7 @@ import { defineUserConfig } from '@vuepress/cli'
 import type { DefaultThemeOptions } from '@vuepress/theme-default'
 import { path } from '@vuepress/utils'
 import { navbar, sidebar } from './configs'
+import {ElButton} from "element-plus";
 
 export default defineUserConfig<DefaultThemeOptions>({
     base: '/',

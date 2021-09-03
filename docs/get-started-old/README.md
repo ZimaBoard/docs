@@ -7,7 +7,7 @@ editLink: true
 
 # Introduction
 
-![ZimaBoard](/images/ZimaBoard/g4.jpeg)
+![ZimaBoard](/images/zimaboard/g4.jpeg)
 
 Let's set up your **ZimaBoard** and see what you can do with it!
 
@@ -17,14 +17,8 @@ Let's set up your **ZimaBoard** and see what you can do with it!
 
 ## What will you need
 
-<!-- 
-![ZimaBoard](/images/ZimaBoard/product_1.png)
-![PowerAdapter](/images/Accessories/12V-3A-Power-Adapter-1.jpg)
-![EthernetCable](/images/Accessories/Cat5e-Ethernet-Cable-1.jpg)
- -->
-
 <p style="text-align: center;" >
-  <img src="/images/ZimaBoard/product_1.png" style="max-width: 33%; max-height: 200px;" />
+  <img src="/images/zimaboard/product_1.png" style="max-width: 33%; max-height: 200px;" />
   <img src="/images/Accessories/12V-3A-Power-Adapter-1.jpg" style="max-width: 33%; max-height: 200px;" />
   <img src="/images/Accessories/Cat5e-Ethernet-Cable-1.jpg" style="max-width: 33%; max-height: 200px;" />
 </p>
