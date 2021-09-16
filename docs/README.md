@@ -5,7 +5,7 @@ title: Docs
 heroImage: /images/home_server_apps.png
 actions: 
   - text: Ready Go →
-    link: /get-started
+    link: /get-started/
     type: primary
     
 features:
