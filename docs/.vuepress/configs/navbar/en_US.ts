@@ -14,6 +14,10 @@ export const en_US: NavbarConfig = [
     //     link: '/kb/',
     // },
     {
+        text: 'CasaOS',
+        link: '/casaos/',
+    },
+    {
         text: 'Community',
         link: '/community/',
     },

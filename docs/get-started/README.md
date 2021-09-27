@@ -48,7 +48,9 @@ If you have multiple routers in your network, make sure to connect the ZimaBoard
 
 In short, just try to connect to the top router!
 
-::: details Details
+:::
+
+::: details Network Details
 
 **For example, if your network looks like this:**
 

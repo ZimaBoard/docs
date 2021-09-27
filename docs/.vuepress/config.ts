@@ -8,7 +8,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     base: '/',
 
     lang: 'en-US',
-    title: 'ZimaBoard Docs',
+    title: 'ZimaDocs',
     description: 'This is a ZimaBoard Official Documentation Website for building home server applications and exploring posibilities with ZimaBoard.',
     head: [
         [
@@ -19,12 +19,12 @@ export default defineUserConfig<DefaultThemeOptions>({
     locales: {
         '/': {
             lang: 'en-US',
-            title: 'Play with ZimaBoard',
+            title: 'ZimaDocs',
             description: 'Deploy and Create Interesting Home Server Apps',
         },
         '/zh/': {
             lang: 'zh-CN',
-            title: 'Play with ZimaBoard',
+            title: 'ZimaDocs',
             description: '从0到1，带你探索有趣的家庭服务器应用',
         },
     },

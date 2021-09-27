@@ -14,6 +14,15 @@ export const en_US: SidebarConfig = {
             ],
         },
     ],
+    '/casaos/': [
+        '/casaos/',
+        {
+            text: 'Tutorial',
+            children: [
+                '/casaos/install-app.md',
+            ],
+        },
+    ],
     '/projects/CreateYourFirstPersonalCloudStorage/': [
         {
             text: 'Create Your First Personal Cloud Storage',
